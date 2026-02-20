@@ -1,0 +1,13 @@
+flask
+sentence-transformers
+faiss-cpu
+transformers
+torch
+openai
+numpy
+tqdm
+gunicorn
+sounddevice
+scipy
+openai-whisper
+pyttsx3
